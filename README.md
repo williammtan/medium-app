@@ -6,7 +6,7 @@ Follow the steps below to download and run the app!
 
 ### Prerequisites
 * install npm and if you have it installed, check by running
-  ```sh
+```sh
   node -v
   npm -v
 ```
